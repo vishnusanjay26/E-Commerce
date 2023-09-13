@@ -1,3 +1,12 @@
+@media (max-width: 768px) {
+    /* CSS rules for screens up to 768px width (typical tablet and phone sizes) */
+    /* Adjust the styling for smaller screens */
+}
+
+@media (max-width: 480px) {
+    /* CSS rules for screens up to 480px width (typical phone sizes) */
+    /* Further adjustments for smaller screens */
+}
 html {
   scroll-behavior: smooth;
   font-family: 'League Spartan', sans-serif;
